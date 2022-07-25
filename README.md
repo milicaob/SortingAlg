@@ -9,6 +9,8 @@
 
 </div>
 
+
+-----------------------------
 `B` - Bubble Sort
 
 `I` - Insertion Sort
@@ -18,7 +20,7 @@
 `M` - Merge Sort
 
 `Q` - Quick Sort
-
+----------------------------
 
 ![image](./screen.jpg)
 
